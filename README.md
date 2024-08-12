@@ -5,7 +5,7 @@
 
 📍 **INDIA**  
 📧 **Email:** [atharva.talla@gmail.com](mailto:atharva.talla@gmail.com)  
-🔗 **LinkedIn:** [Atharva Talla](www.linkedin.com/in/atharvatalla)  
+🔗 **LinkedIn:** [Atharva Talla](https://www.linkedin.com/in/atharvatalla/)  
 👨‍💻 **GitHub:** [Atharva Talla](https://github.com/AtharvaTalla)
 
 
