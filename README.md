@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**AtharvaTalla/AtharvaTalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Atharva!
 
-Here are some ideas to get you started:
+## 🚀 Data science engineer passionate about AI/ML. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 **INDIA**  
+📧 **Email:** [atharva.talla@gmail.com](mailto:atharva.talla@gmail.com)  
+🔗 **LinkedIn:** [Atharva Talla](www.linkedin.com/in/atharvatalla)  
+👨‍💻 **GitHub:** [Atharva Talla](https://github.com/AtharvaTalla)
+
+
+### About Me 🌐
+Transforming complex datasets into strategic insights. Dedicated to innovation and collaboration, I'm eager to harness the power of data.
+Interested in LLMs, Generative AI and NLP.
+
+### Tech Toolbox 🛠️
+- **Languages:** Python, SQL, HTML, CSS.
+- **Frameworks & Libraries:** PyTorch, Scikit-learn, Keras, Tensorflow, Excel, Power BI.
+- **Interests:** LLMs, Generative AI and NLP.
+
+### Education 🎓
+- **Bachelors in AI & Data Science**, Pune University(2026)
