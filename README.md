@@ -1,4 +1,4 @@
-![AI](https://www.embl.org/news/wp-content/uploads/2020/10/BRAZMA_Machine_Learning_1000x600.jpg)
+
 # 👋 Hello, I'm Atharva!
 
 ## 🚀 Data science engineer passionate about AI/ML. 
