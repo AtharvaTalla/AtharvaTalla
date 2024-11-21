@@ -14,8 +14,8 @@ Transforming complex datasets into strategic insights. Dedicated to innovation a
 Interested in LLMs, Generative AI and NLP.
 
 ### Tech Toolbox 
-- **Languages:** Python, SQL, HTML, CSS.
-- **Frameworks & Libraries:** PyTorch, Scikit-learn, Keras, Tensorflow, Excel, Power BI.
+- **Languages:** Python, SQL, HTML, CSS, Javascript
+- **Frameworks & Libraries:** PyTorch, Scikit-learn, Excel, Power BI.
 - **Interests:** LLMs, Generative AI and NLP.
 
 ### Education 
